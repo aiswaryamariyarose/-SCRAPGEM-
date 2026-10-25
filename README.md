@@ -1,8 +1,8 @@
  # 🍫 ScrapGem — Built from Scrap, Powered by Snacks!
 
 **ScrapGem** is a smart, eco-friendly chocolate vending machine prototype built using recycled cardboard and electronic components. It combines creativity, automation, and technology to create a fun way to dispense KitKat chocolates.
+<img width="1024" height="1536" alt="WhatsApp Image 2026-10-25 at 7 52 42 AM" src="https://github.com/user-attachments/assets/5e77e249-449d-45d6-9b6d-602b0df9d66e" />
 
-![ScrapGem KitKat Advertisement](images/scrapgem_poster.png)
 
 ## 🌟 About the Project
 
@@ -44,16 +44,7 @@ The prototype integrates electronic components for motion detection, RFID card s
 
 ## 🖼️ Project Gallery
 
-Add your project photos to the `images` folder in this repository.
-
-### Front View
-![ScrapGem Front View](images/scrapgem_front.jpg)
-
-### Circuit Connections
-![ScrapGem Circuit](images/scrapgem_circuit.jpg)
-
-### Cardboard Prototype
-![ScrapGem Prototype](images/scrapgem_prototype.jpg)
+ <img width="1600" height="761" alt="WhatsApp Image 2026-10-25 at 7 32 00 AM" src="https://github.com/user-attachments/assets/2c23c2b2-6242-4ebd-ad20-de37789fe2ac" />
 
 ## 💻 Software and Tools
 
